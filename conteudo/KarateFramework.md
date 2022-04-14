@@ -194,7 +194,7 @@ Given header id = 12512312
 ```
 
 ```gherkin
-Given header ativo = false
+Given header wwwwwwwwwwwwwwwativo = false
 ```
 
 ```gherkin
